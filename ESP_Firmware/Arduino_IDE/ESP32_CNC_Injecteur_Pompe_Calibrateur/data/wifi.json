@@ -1,0 +1,10 @@
+{
+"SSID":"BotaBotLan-2.4",
+"PASS":"botabotpass",
+"SERVER":"botabot-server.lan",
+"TopicINFO": "ESP32_LH1INFO",
+"TopicDEBUG": "ESP32_LH1DEBUG",
+"TopicCONFIG": "ESP32_LH1CONFIG",
+"TopicCMD": "ESP32_LH1CMD",
+"HostName": "ESP32_LH1"
+}

@@ -1,7 +1,7 @@
 {
-"SSID":"BotaBotLan-2.4",
-"PASS":"botabotpass",
-"SERVER":"botabot-server.lan",
+"SSID":"SSID",
+"PASS":"PASSWORD",
+"SERVER":"MQTT BROKER IP",
 "TopicINFO": "ESP32_LH1INFO",
 "TopicDEBUG": "ESP32_LH1DEBUG",
 "TopicCONFIG": "ESP32_LH1CONFIG",

@@ -38,3 +38,5 @@ Tools
 ### Software
 - Arduino IDE
 - 3D printer slicer (Slic3r, Cura, ...)
+
+README

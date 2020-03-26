@@ -2,6 +2,10 @@ MQTT-liquid-handler
 =====
 **3D printed and remotely controllable liquid handler (peristaltic pump and syringe)**
 
+<img src="https://github.com/botabotlab/MQTT-liquid-handler/blob/master/Pictures/demo.jpg" width=75% align=center>
+
+**Price : around 50€-75€**
+
 Material 
 -----
 ### Electronic 
@@ -9,12 +13,12 @@ Material
 - Arduino UNO CNC shield (with DRV8825) [Aliexpress](https://www.aliexpress.com/item/32808956717.html) [Amazon](https://www.amazon.fr/dp/B082Y4B6HC/)
 - Nema17 [Aliexpress](https://www.aliexpress.com/item/32376023464.html) [Amazon](https://www.amazon.fr/dp/B07CZHLKTC)
 - Limit switch [Aliexpress](https://www.aliexpress.com/item/32951447527.html) [Amazon](https://www.amazon.fr/dp/B073XGRRM4)
-- CNC Kit [Aliexpress](https://www.aliexpress.com/item/32376023464.html) [Amazon](https://www.amazon.fr/dp/B06Y2BSCL7)
+- CNC Kit [Aliexpress](https://www.aliexpress.com/item/33031649687.html) [Amazon](https://www.amazon.fr/dp/B06Y2BSCL7)
 - 12V DC 5.5x2.1mm 
 
 #### Non essential
-- PCB [Aliexpress](https://www.aliexpress.com/item/32682015405.html) 
-- WS2812B RGB [Aliexpress](https://www.aliexpress.com/item/32854111824.html) 
+- PCB [Aliexpress](https://www.aliexpress.com/item/32854111824.html ) 
+- WS2812B RGB [Aliexpress](https://www.aliexpress.com/item/32682015405.html) 
 
 ### Screws 
 **For 1 pumps and 1 syringe**
@@ -39,4 +43,4 @@ Tools
 - Arduino IDE
 - 3D printer slicer (Slic3r, Cura, ...)
 
-README
+**See WiKi for more instructions**

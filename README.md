@@ -1,6 +1,6 @@
 MQTT-liquid-handler
 =====
-3D printed and remotely controllable liquid handler (peristaltic pump and syringe)
+**3D printed and remotely controllable liquid handler (peristaltic pump and syringe)**
 
 Material 
 -----
@@ -17,7 +17,15 @@ Material
 - WS2812B RGB [Aliexpress](https://www.aliexpress.com/item/32854111824.html) 
 
 ### Screws 
-For 2 pumps and 1 syringe
+**For 1 pumps and 1 syringe**
+- 4X : M4 25
+- 3x : M4 20
+- 7X : M4 hex nuts
+- 2X : M3 13
+- 1X : M8 threaded rod cut to 70mm
+- 1X : M8 hex nut
+- 2X : M3 12
+- 6x : 4x13x5mm (624ZZ) ball bearing 
 
 Tools 
 -----

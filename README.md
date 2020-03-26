@@ -1,7 +1,7 @@
 MQTT-liquid-handler
 =====
 **3D printed and remotely controllable liquid handler (peristaltic pump and syringe)**
-<img src="/MQTT-liquid-handler/Pictures/demo.jpg>
+<img src="/Pictures/demo.jpg">
 **Price : around 50€-75€**
 
 Material 

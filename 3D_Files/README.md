@@ -1,7 +1,13 @@
-Suggested filament : PETG (or ABS)
+## Print settings
+- Suggested filament : PETG (or ABS)
+- Infill : 25%
+- Layer height : 0.2mm
+- Nozzle diameter : 0.4mm
+- Support : Only for "Piston Lock" and "Rotor Base"
 
-% Infill : 25%
+## Material (1 pump)
+- 4X Mx X screw
+- 4X Mx nut
+- 2X 
 
-Layer height : 0.2mm
-
-Nozzle diameter : 0.4mm
+## Material (1 syringe)
